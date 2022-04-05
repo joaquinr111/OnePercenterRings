@@ -41,7 +41,7 @@ const extraMetadata = {
 // NFTPort Info
 // ** REQUIRED **
 const AUTH = "a1b499e5-7e8d-4139-983a-58454c685791";
-const LIMIT = 2; // Your API key rate limit
+const LIMIT = 5; // Your API key rate limit
 const CONTRACT_NAME = 'OnePercenterRings';
 const CONTRACT_SYMBOL = 'OPR';
 const CONTRACT_TYPE = 'erc721';

@@ -40,10 +40,10 @@ const extraMetadata = {
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "YOUR API KEY HERE";
+const AUTH = "a1b499e5-7e8d-4139-983a-58454c685791";
 const LIMIT = 2; // Your API key rate limit
-const CONTRACT_NAME = 'OnePercentersVIP';
-const CONTRACT_SYMBOL = 'OP';
+const CONTRACT_NAME = 'OnePercenterRings';
+const CONTRACT_SYMBOL = 'OPR';
 const CONTRACT_TYPE = 'erc721';
 const MINT_TO_ADDRESS = '0xfE234de8148D65F39B34486C3162b468E9f3a1D1';
 const CHAIN = 'rinkeby';

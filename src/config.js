@@ -46,7 +46,7 @@ const CONTRACT_NAME = 'OnePercenterRings';
 const CONTRACT_SYMBOL = 'OPR';
 const CONTRACT_TYPE = 'erc721';
 const MINT_TO_ADDRESS = '0xfE234de8148D65F39B34486C3162b468E9f3a1D1';
-const CHAIN = 'rinkeby';
+const CHAIN = 'Polygon';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xfE234de8148D65F39B34486C3162b468E9f3a1D1"; // Address that will receive the royalty
